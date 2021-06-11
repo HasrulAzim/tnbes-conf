@@ -1,0 +1,8 @@
+[My Computer]
+My Computer="192.168.0.135"
+
+[NI-sbRIO-9607-01d4256f]
+NI-sbRIO-9607-01d4256f="100.100.100.102"
+
+[TNBES]
+TNBES="localhost"

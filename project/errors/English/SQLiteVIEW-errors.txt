@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<nidocument>
+<nicomment>
+<nifamily familyname="SQLiteVIEW" displayname="SQLiteVIEW">
+</nifamily>
+This file contains errors from SQLiteVIEW toolkit
+</nicomment>
+<nierror code="6000">
+SQLiteVIEW: Function returns an error.
+</nierror>
+<nierror code="6001">
+SQLiteVIEW: SQL error or missing database.
+</nierror>
+<nierror code="6002">
+SQLiteVIEW: Internal logic error in SQLiteVIEW.
+</nierror>
+<nierror code="6003">
+SQLiteVIEW: Access permission denied.
+</nierror>
+<nierror code="6004">
+SQLiteVIEW: Callback routine requested an abort.
+</nierror>
+<nierror code="6005">
+SQLiteVIEW: The database file is locked.
+</nierror>
+<nierror code="6006">
+SQLiteVIEW: A table in the database is locked.
+</nierror>
+<nierror code="6007">
+SQLiteVIEW: A malloc() failed.
+</nierror>
+<nierror code="6008">
+SQLiteVIEW: Attempt to write a readonly database
+</nierror>
+<nierror code="6009">
+SQLiteVIEW: Operation terminated by SQLiteVIEW3_interrupt().
+</nierror>
+<nierror code="6010">
+SQLiteVIEW: Some kind of disk I/O error occurred.
+</nierror>
+<nierror code="6011">
+SQLiteVIEW: The database disk image is malformed.
+</nierror>
+<nierror code="6012">
+SQLiteVIEW: Table or record not found.
+</nierror>
+<nierror code="6013">
+SQLiteVIEW: Insertion failed because database is full.
+</nierror>
+<nierror code="6014">
+SQLiteVIEW: Unable to open the database file.
+</nierror>
+<nierror code="6015">
+SQLiteVIEW: Database lock protocol error.
+</nierror>
+<nierror code="6016">
+SQLiteVIEW:  Database is empty.
+</nierror>
+<nierror code="6017">
+SQLiteVIEW: The database schema changed.
+</nierror>
+<nierror code="6018">
+SQLiteVIEW: String or BLOB exceeds size limit.
+</nierror>
+<nierror code="6019">
+SQLiteVIEW: Abort due to constraint violation.
+</nierror>
+<nierror code="6020">
+SQLiteVIEW: Data type mismatch.
+</nierror>
+<nierror code="6021">
+SQLiteVIEW: Library used incorrectly.
+</nierror>
+<nierror code="6022">
+SQLiteVIEW: Uses OS features not supported on host.
+</nierror>
+<nierror code="6023">
+SQLiteVIEW: Authorization denied.
+</nierror>
+<nierror code="6024">
+SQLiteVIEW: Auxiliary database format error.
+</nierror>
+<nierror code="6025">
+SQLiteVIEW: 2nd parameter to SQLiteVIEW3_bind out of range.
+</nierror>
+<nierror code="6026">
+SQLiteVIEW: File opened that is not a database file.
+</nierror>
+<nierror code="6100">
+SQLiteVIEW: SQLiteVIEW3_step() has another row ready.
+</nierror>
+<nierror code="6101">
+SQLiteVIEW: SQLiteVIEW3_step() has finished executing.
+</nierror>
+</nidocument>
