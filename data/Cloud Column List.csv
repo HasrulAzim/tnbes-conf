@@ -925,8 +925,8 @@ main_hccu_table,Gen1_VoltageL2_L3,1
 main_hccu_table,Gen1_VoltageL3_L1,1
 main_hccu_table,Gen1_Real_Energy_MWh,1
 main_hccu_table,Gen1_Run_hour_h,1
-main_hccu_table,Gen1_State_Input8,0
-main_hccu_table,Gen1_Engine,0
+main_hccu_table,Gen1_State_Input8,1
+main_hccu_table,Gen1_Engine,1
 main_hccu_table,Gen2_Power_factor,1
 main_hccu_table,Gen2_Total_Power_W,1
 main_hccu_table,Gen2_I1,1
@@ -945,8 +945,8 @@ main_hccu_table,Gen2_VoltageL2_L3,1
 main_hccu_table,Gen2_VoltageL3_L1,1
 main_hccu_table,Gen2_Real_Energy_MWh,1
 main_hccu_table,Gen2_Run_hour_h,1
-main_hccu_table,Gen2_State_Input8,0
-main_hccu_table,Gen2_Engine,0
+main_hccu_table,Gen2_State_Input8,1
+main_hccu_table,Gen2_Engine,1
 main_hccu_table,Gen3_Power_factor,1
 main_hccu_table,Gen3_Total_Power_W,1
 main_hccu_table,Gen3_I1,1
@@ -965,8 +965,8 @@ main_hccu_table,Gen3_VoltageL2_L3,1
 main_hccu_table,Gen3_VoltageL3_L1,1
 main_hccu_table,Gen3_Real_Energy_MWh,1
 main_hccu_table,Gen3_Run_hour_h,1
-main_hccu_table,Gen3_State_Input8,0
-main_hccu_table,Gen3_Engine,0
+main_hccu_table,Gen3_State_Input8,1
+main_hccu_table,Gen3_Engine,1
 main_hccu_table,Gen4_Power_factor,1
 main_hccu_table,Gen4_Total_Power_W,1
 main_hccu_table,Gen4_I1,1
@@ -985,8 +985,8 @@ main_hccu_table,Gen4_VoltageL2_L3,1
 main_hccu_table,Gen4_VoltageL3_L1,1
 main_hccu_table,Gen4_Real_Energy_MWh,1
 main_hccu_table,Gen4_Run_hour_h,1
-main_hccu_table,Gen4_State_Input8,0
-main_hccu_table,Gen4_Engine,0
+main_hccu_table,Gen4_State_Input8,1
+main_hccu_table,Gen4_Engine,1
 main_hccu_table,Gen5_Power_factor,1
 main_hccu_table,Gen5_Total_Power_W,1
 main_hccu_table,Gen5_I1,1
@@ -1005,8 +1005,8 @@ main_hccu_table,Gen5_VoltageL2_L3,1
 main_hccu_table,Gen5_VoltageL3_L1,1
 main_hccu_table,Gen5_Real_Energy_MWh,1
 main_hccu_table,Gen5_Run_hour_h,1
-main_hccu_table,Gen5_State_Input8,0
-main_hccu_table,Gen5_Engine,0
+main_hccu_table,Gen5_State_Input8,1
+main_hccu_table,Gen5_Engine,1
 main_hccu_table,Wind_Speed,1
 main_hccu_table,Wind_Direction,1
 main_hccu_table,Ambient_Temp_No_use,1
