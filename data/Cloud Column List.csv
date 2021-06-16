@@ -8,8 +8,8 @@ acc_table,Gen3_Run_hour_h,1
 acc_table,Gen4_Run_hour_h,1
 acc_table,Gen5_Run_hour_h,1
 alarm_hccu_table,id,1
-alarm_hccu_table,DatetimeServer,1
-alarm_hccu_table,DatetimeDell,1
+alarm_hccu_table,DatetimeServer,0
+alarm_hccu_table,DatetimeDell,0
 alarm_hccu_table,Datetimehccu,1
 alarm_hccu_table,ISC_comm_fail,1
 alarm_hccu_table,ISC_Standby,1
